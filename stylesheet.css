@@ -1,0 +1,25 @@
+body{
+	overflow: auto;
+}
+h2{
+	text-align: center;
+	color: black;
+}
+h4{
+	text-align: center;
+}
+.introRow{
+	/*background-color: #F15025;*/
+	margin-top: 10px;
+	font-family: 'Bungee', cursive;
+}
+#titles{
+	font-size: 20px;
+	display: block;
+	margin: auto;
+	text-align: center;
+	font-weight: 1000;
+}
+.bar{
+	color: #f15025;
+}
